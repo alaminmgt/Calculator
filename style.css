@@ -1,0 +1,27 @@
+body{
+    margin : 0;
+    padding: 0 ;
+}
+.formstyle{
+    width: 300px;
+    height: 400px;
+    margin: 50px auto;
+    border: 2px solid black;
+}
+#answer{
+    width: 292px;
+    height: 40px;
+    font-size: 25px;
+}
+#clear {
+	width: 299px;
+}
+input {
+	width: 97px;
+	/* margin-right: 9px; */
+	background-color: blue;
+	color: white;
+	height: 40px;
+	font-size: 20px;
+	border-radius: 5px;
+}
